@@ -7,11 +7,8 @@
 - Custom management command - парсинг XML и сохранение в БД
 - ответы на ajax запросы, обработка фильтраций и сортировок, предоставление данных для front-end
 
-link: http://jqestate.ru
-
 =====================================================
 
-<h1>JQ Estate</h1>
 Online sales resource for elite real-estate in Moskow city and abroad.
 
 Стэк: Python, Django, MySQL, HTML, CSS, LESS, JavaScript, jQuery, jQueryUI, backbone
