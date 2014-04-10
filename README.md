@@ -17,4 +17,4 @@ Functions of this app:
 - Custom management command - parsing of XML and saving it to DB
 - ajax responces, processing of filtering and sorting, provide data for front-end
 
-<h3>Link:</h3> http://jqestate.ru
+<h3>Link: http://jqestate.ru</h3>
